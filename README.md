@@ -18,3 +18,10 @@ chmod +x run.sh stop.sh
 ```bash
 ./run.sh
 ```
+
+### Update
+
+1. Launch run.sh
+```bash
+./run.sh
+```
